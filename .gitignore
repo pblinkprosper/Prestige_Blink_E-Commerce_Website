@@ -2,3 +2,4 @@
 backend/node_modules/.bin/is-ci
 /backend/node_modules/.bin
 /backend/node_modules
+/frontend/node_modules
